@@ -2,7 +2,7 @@
  * react-native-swiper
  * @author leecade<leecade@163.com>
  */
-import React, { Component, PropTypes } from 'react'
+import React, { Component, PropTypes, ViewPropTypes } from 'react'
 import {
   Text,
   View,
